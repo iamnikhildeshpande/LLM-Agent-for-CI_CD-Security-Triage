@@ -1,4 +1,4 @@
-# LLM CI/CD Security Agent 🚀
+# LLM CI/CD Security Agent 
 
 This project provides a Python-based agent that:
 - Crawls CI/CD artifacts (JUnit test reports, SonarQube SAST, OWASP ZAP vulnerability scans).
