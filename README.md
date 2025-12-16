@@ -18,7 +18,7 @@ See [src/](src/) for code, [tests/](tests/) for unit tests, and [notebooks/](not
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/llm-ci-security-agent.git
+   git clone <URL of the repo>
    cd llm-ci-security-agent
 
 2. Install dependencies:
